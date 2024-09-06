@@ -1,6 +1,6 @@
 # Austin Incident Interactive Dashboard
 
-Demo: https://github.com/steve-yuan-8276/Austin_accidents_interactive_dashboard/blob/main/demo.html
+Demo: https://steve-yuan-8276.github.io/Austin_accidents_interactive_dashboard/
 
 In this project, I performed data cleaning using Pandas, addressing missing values, correcting data types, and removing anomalies to ensure the dataset was robust for analysis. The cleaned data was saved in CSV format for further use during the visualization stages.
 
