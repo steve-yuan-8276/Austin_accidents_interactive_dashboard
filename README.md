@@ -1,5 +1,7 @@
 # Austin Incident Interactive Dashboard
 
+Demo: https://github.com/steve-yuan-8276/Austin_accidents_interactive_dashboard/blob/main/demo.html
+
 In this project, I performed data cleaning using Pandas, addressing missing values, correcting data types, and removing anomalies to ensure the dataset was robust for analysis. The cleaned data was saved in CSV format for further use during the visualization stages.
 
 In the visualization part, I focused on the spatial and temporal dimensions of traffic accident data and utilized Plotly to create interactive and dynamic visualizations. Each visual component was exported as JSON, enabling seamless integration with HTML and CSS for a responsive, user-friendly dashboard. This approach allowed me to effectively present the temporal and spatial dimensions of traffic accidents, providing clear insights into patterns and trends within the city.
@@ -66,10 +68,7 @@ Uses a bubble chart to display monthly aggregated traffic accident data by posta
 
 ## Project Structure
     
-    
-    markdown
-    
-    Copy code
+
     
     Data_Viz_V3_Steve.ipynb
     demo.html
